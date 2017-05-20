@@ -1,8 +1,8 @@
 package zhajinhua;
 
 public class Player {
-	
-	
+
+
 	
 	
 	/**
@@ -22,7 +22,10 @@ public class Player {
 	 * ø’≤Œππ‘Ï
 	 */
 	public Player(){
-		
+
+
+
+
 	}
 	
 	/**
